@@ -1,0 +1,11 @@
+les statiques -> créer dans le répertoire de l'application.
+    myfirstapp
+        ->static
+            ->myfirstapp
+                ->index.css
+                ->chat.png
+    {% load static %}
+    et {%static 'myfirstapp/index.css'%} de la href de <link...>
+
+ne pas mettre d'espace ou de caractères accentués dans les urls- changement de char ou de
+    navigateur peut ne pas l'interpréter correctement.

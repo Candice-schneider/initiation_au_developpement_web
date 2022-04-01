@@ -29,9 +29,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'myfirstapp.apps.MyfirstappConfig',
+    'bibliotheque.apps.MybookConfig',
     # ajouter cette ligne, MyfirstappConfig est le nom de la classe dans le fichier apps.py de l'application
-    'myfirstapp.livre.book',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
