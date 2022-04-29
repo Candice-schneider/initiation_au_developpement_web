@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="début">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cooking/cookingapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cooking/cookingapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cooking/cookingapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cooking/cookingapp/urls.py" afterDir="false" />
+    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="nv">
+      <change beforePath="$PROJECT_DIR$/cooking/cookingapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/cooking/cookingapp/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651241105353</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nv">
+      <created>1651242999367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651242999367</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nv">
+      <created>1651243013339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651243013340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="début" />
-    <option name="LAST_COMMIT_MESSAGE" value="début" />
+    <MESSAGE value="nv" />
+    <option name="LAST_COMMIT_MESSAGE" value="nv" />
   </component>
 </project>
