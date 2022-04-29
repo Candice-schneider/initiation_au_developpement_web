@@ -1,0 +1,3 @@
+faire un projet crud qui permet de trier des recettes de cuisine:
+trier les recettes,
+il faut poster le résultat sur un github

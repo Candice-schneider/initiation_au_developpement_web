@@ -1,0 +1,3 @@
+id permet de seletionner un objet precit
+ol en html peremet de numéroté
+update et ajout on quasimment les mêmes paramètres mais update joue avec les id des objects.
