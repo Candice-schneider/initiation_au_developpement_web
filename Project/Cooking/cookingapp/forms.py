@@ -2,9 +2,10 @@ from django.forms import ModelForm
 from django.utils.translation import gettext_lazy as _
 from . import models
 
-class recetteForm(ModelForm):
+
+class RecetteForm(ModelForm):
     class Meta:
-        model = models.recette
+        model = models.Recette
         fields = ("nom", "nombre_personne")
         labels = {
             'nom': _("Nom : "),
