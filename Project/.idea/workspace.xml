@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="nv">
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/liste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/recette.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/Cooking/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/Cooking/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/ajout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/ajout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +41,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\schneider candice\OneDrive\Documents\Cours\BUT\S2\R209-initiation au developpement web\Project\cooking\cookingapp\static\cookingapp" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651244125306</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="nv">
+      <created>1651646707972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651646707972</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +119,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="début" />
