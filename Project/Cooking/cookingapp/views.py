@@ -9,9 +9,9 @@ def ajout(request):
 
 
 def index(request):
-    return render(request, 'cookingapp/templates/index.html')
+    return render(request, 'cookingapp/index.html')
 
 
 def main(request):
-    return render(request, 'cookingapp/templates/main.html')
+    return render(request, 'cookingapp/main.html')
 

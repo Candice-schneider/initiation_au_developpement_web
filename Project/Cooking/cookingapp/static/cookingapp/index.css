@@ -1,25 +1,29 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis:400,500,700|Quicksand:400,700|Raleway:300,300i,400,400i,700,800,900');
-
+"""@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Merienda&display=swap');"""
 html, body{
 	margin : 0px;
 	padding : 0px;
+	background-image: rgb(160, 180, 179)
 }
 
 * {
     box-sizing : border-box;
 }
 
-.entetesite{
-	background-image: url(bandeau.jpg);
-	padding : 20px;
+.main{
+	background-image: url(fond.jpg);
+	background-size: 70%;
+	background-padding:60%;
+	padding:10%;
 }
-
-.entetesite h1 {
-    color : red;
-    font-family : Raleway, sans-serif;
+. entete {
+    background-image:url(affiche.jpg);
+    background-size:30%;}
+.entete h1 {
+    color : rgb(207, 99, 128);
+    font-family : 'Amatic SC', cursive;
 	width : 400px;
 	text-align: center;
-	background-color: antiquewhite;
+	background-color: rgb(124, 100, 107);
 	opacity: 0.8;
 	margin : 0px auto 0px;
 }
@@ -28,10 +32,10 @@ html, body{
     display : inline-block;
     width : calc( 100% / 3 - 5px);
     margin-right : 5px;
-    background-color: burlywood;
+    background-color: rgb(124, 100, 107);
     text-align : center;
-    text-decoration : none;
-    color : darkblue;
+    font-family : 'Amatic SC', cursive;
+    color : rgb(207, 99, 128);
     font-size : 1.2em;
 }
 .entetesite nav a:first-child{

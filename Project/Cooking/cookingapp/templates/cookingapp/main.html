@@ -3,17 +3,17 @@
   {% load static %}
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="{% static 'myfirstapp/index.css' %}">
-    <title>{% block title %}Mon Site {% endblock %} </title>
+    <link rel="stylesheet" href="{% static 'cookingapp/index.css' %}">
+    <title>{% block title %}Cook & Me {% endblock %} </title>
 </head>
 <body>
-<header class="entetesite">
+<header class="entete">
     <h1> Cook & Me </h1>
-    <nav><a href="liste.html"> Accueil </a><a href="formulaire.html"> formulaire </a><a href="https://www.djangoproject.com"> Django project </a></nav>
+    <nav><a href="liste.html"> Liste des recettes </a><a href="????.html"> Recherche </a><a href="formulaire"> Ajouter ma recette </a></nav>
 </header>
 <div class="main">
     {% block content %}
-        <h1> bloc de contenu </h1>
+        <h1> Nouvelles arrivées: </h1>
     {% endblock%}
 </div>
 </body>

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="affichage fonctionne">
+    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="css marche plus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cooking/cookingapp/static/cookingapp/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651838499234</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="css marche plus">
+      <created>1651840591865</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651840591865</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +155,7 @@
     <MESSAGE value="début" />
     <MESSAGE value="nv" />
     <MESSAGE value="affichage fonctionne" />
-    <option name="LAST_COMMIT_MESSAGE" value="affichage fonctionne" />
+    <MESSAGE value="css marche plus" />
+    <option name="LAST_COMMIT_MESSAGE" value="css marche plus" />
   </component>
 </project>
