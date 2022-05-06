@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="nv">
-      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/liste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/recette.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cooking/Cooking/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/Cooking/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/ajout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/ajout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD3_django/myfirstapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TD3_django/myfirstapp/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651646707972</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="nv">
+      <created>1651659521097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651659521097</updated>
+    </task>
+    <task id="LOCAL-00009" summary="nv">
+      <created>1651659530048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651659530048</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

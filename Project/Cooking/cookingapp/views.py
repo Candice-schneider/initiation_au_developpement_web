@@ -5,8 +5,13 @@ from django.shortcuts import render
 
 def ajout(request):
     #gform = forms.RecetteForm()
-    return render(request, 'cookingapp/ajout.html'), #{"form": gform})
+    return render(request, 'cookingapp/ajout.html') #{"form": gform})
 
 
 def index(request):
-    return render(request, 'cookingapp/index.html')
+    return render(request, 'cookingapp/templates/index.html')
+
+
+def main(request):
+    return render(request, 'cookingapp/templates/main.html')
+
