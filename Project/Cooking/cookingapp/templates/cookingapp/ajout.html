@@ -2,9 +2,17 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>ajout</title>
+    <title>ajouter ma recette</title>
 </head>
 <body>
-
+<header class="entete">
+    <h1> Cook & Me </h1>
+    <nav><a href="liste.html"> Liste des recettes </a><a href="main.html"> Menu </a><a href="?????.html"> Recherche </a></nav>
+</header>
+<div class="main">
+    {% block content %}
+        <h1> Recette à ajouter: </h1>
+    {% endblock%}
+</div>
 </body>
 </html>

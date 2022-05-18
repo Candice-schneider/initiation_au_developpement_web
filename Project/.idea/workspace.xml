@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="css marche plus">
+    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="marche&#10;debut mise en page du main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cooking/cookingapp/static/cookingapp/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/ajout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/ajout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="28TO9iRS3WuQdBS2fJHamkPqhlJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -141,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651845826815</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="marche&#10;debut mise en page du main">
+      <created>1651847255761</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651847255763</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +180,7 @@
     <MESSAGE value="nv" />
     <MESSAGE value="affichage fonctionne" />
     <MESSAGE value="css marche plus" />
-    <option name="LAST_COMMIT_MESSAGE" value="css marche plus" />
+    <MESSAGE value="marche&#10;debut mise en page du main" />
+    <option name="LAST_COMMIT_MESSAGE" value="marche&#10;debut mise en page du main" />
   </component>
 </project>

@@ -15,3 +15,6 @@ def index(request):
 def main(request):
     return render(request, 'cookingapp/main.html')
 
+def liste(request):
+    return render(request, 'cookingapp/liste.html')
+

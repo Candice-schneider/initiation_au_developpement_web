@@ -1,8 +1,8 @@
-"""@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Merienda&display=swap');"""
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Merienda&display=swap');
 html, body{
 	margin : 0px;
 	padding : 0px;
-	background-image: rgb(160, 180, 179)
+	background-color: rgb(160, 180, 179)
 }
 
 * {
@@ -10,38 +10,34 @@ html, body{
 }
 
 .main{
-	background-image: url(fond.jpg);
-	background-size: 70%;
-	background-padding:60%;
-	padding:10%;
+    background-image:url(bois.jpg);
+    background-size:30%;
+    opacity:0.70;
 }
-. entete {
-    background-image:url(affiche.jpg);
-    background-size:30%;}
 .entete h1 {
     color : rgb(207, 99, 128);
     font-family : 'Amatic SC', cursive;
-	width : 400px;
+    font-size:48px;
+	width : 500px;
 	text-align: center;
-	background-color: rgb(124, 100, 107);
-	opacity: 0.8;
+	background-color: rgb(108, 92, 97);
 	margin : 0px auto 0px;
 }
 
-.entetesite nav a{
+.entete nav a{
     display : inline-block;
     width : calc( 100% / 3 - 5px);
     margin-right : 5px;
-    background-color: rgb(124, 100, 107);
+    background-color: rgb(108, 92, 97);
     text-align : center;
     font-family : 'Amatic SC', cursive;
     color : rgb(207, 99, 128);
-    font-size : 1.2em;
+    font-size : 38px;
 }
-.entetesite nav a:first-child{
+.entete nav a:first-child{
 margin-left : 2.5px;
 }
-.entetesite nav a:last-child{
+.entete nav a:last-child{
 margin-right : 0px;
 }
 
