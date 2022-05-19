@@ -1,11 +1,9 @@
-from django.urls import path
-
+from django.urls import path, include
 from . import views
 
 urlpatterns = [
     path('ajout/', views.ajout),
     path('index/', views.index),
-    path('main/', views.main),
+    path('', views.main),
     path('liste/', views.liste),
 ]
-

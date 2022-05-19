@@ -6,6 +6,3 @@ from django.db import models
 class Recette(models.Model):
     nom = models.CharField(max_length=45)
     nombre_personne = models.IntegerField()
-
-
-

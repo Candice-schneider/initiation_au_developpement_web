@@ -1,8 +1,11 @@
-{% extends "myfirstapp/main.html" %}
+{% extends 'base.html' %}
 
 {% block title %}
-    ma page d'accueil
+<div class="titre">
+        <h1>Cook and Me</h1>
+        <a class="custom-btn btn-6" href="{% url 'Ajout' %}" role="button">Ajouter une recette</a>
+</div>
 {% endblock %}
-{%block content %}
-    <h1> Hello World </h1>
+
+{% block content %}
 {% endblock %}

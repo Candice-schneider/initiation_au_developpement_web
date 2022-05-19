@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="marche&#10;debut mise en page du main">
+    <list default="true" id="46167c2d-9964-4479-8366-62924a9057a5" name="Changes" comment="marche&#10;pb page ajout">
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/static/cookingapp/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/ajout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/ajout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/Cooking/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/Cooking/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/Cooking/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/Cooking/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/templates/cookingapp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cooking/cookingapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooking/cookingapp/views.py" afterDir="false" />
     </list>
@@ -160,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651847255763</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="marche&#10;pb page ajout">
+      <created>1652864100596</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652864100596</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +192,18 @@
     <MESSAGE value="affichage fonctionne" />
     <MESSAGE value="css marche plus" />
     <MESSAGE value="marche&#10;debut mise en page du main" />
-    <option name="LAST_COMMIT_MESSAGE" value="marche&#10;debut mise en page du main" />
+    <MESSAGE value="marche&#10;pb page ajout" />
+    <option name="LAST_COMMIT_MESSAGE" value="marche&#10;pb page ajout" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cooking/cookingapp/views.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
